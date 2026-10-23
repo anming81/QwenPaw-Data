@@ -121,6 +121,8 @@ examples/                  # 可执行本地演示数据与确定性冒烟测试
 assets/                    # 品牌与文档资源
 ```
 
+想系统学习整体架构与源码实现，请阅读 [架构与源码学习指南](docs/ARCHITECTURE_GUIDE_ZH.md)。
+
 ## 快速开始：从 clone 到第一个数据任务
 
 ### 通过 PyPI 安装
