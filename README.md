@@ -125,6 +125,9 @@ examples/                  # executable local demo data and deterministic smoke 
 assets/                    # branding and documentation assets
 ```
 
+For a guided tour of the architecture and source code, see the
+[Architecture & Source Code Guide (Chinese)](docs/ARCHITECTURE_GUIDE_ZH.md).
+
 ## Quick Start: Clone to the First Data Task
 
 ### Installing from PyPI
